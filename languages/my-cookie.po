@@ -1,0 +1,191 @@
+msgid "Our website uses cookies to ensure you get the best experience."
+msgstr ""
+
+msgid "Open settings"
+msgstr ""
+
+msgid "Ok, I Understand"
+msgstr ""
+
+msgid "Cookie Declaration"
+msgstr ""
+
+msgid "Disable All"
+msgstr ""
+
+msgid "Save & Close"
+msgstr ""
+
+msgid "Used to distinguish users and sessions for web statistics purposes."
+msgstr ""
+
+msgid "Helps in determining efficiency of our advertising policy."
+msgstr ""
+
+msgid "Stores various information regarding user's preferences."
+msgstr ""
+
+msgid "Please change your cookies preferences to see this video."
+msgstr ""
+
+msgid "Cookies settings"
+msgstr ""
+
+msgid "Content settings"
+msgstr ""
+
+msgid "Design settings"
+msgstr ""
+
+msgid "Preset Items"
+msgstr ""
+
+msgid "Cookies List"
+msgstr ""
+
+msgid "Item Description"
+msgstr ""
+
+msgid "Tracking Code(s)"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Cookies this service creates and uses"
+msgstr ""
+
+msgid "Service description (what it does)"
+msgstr ""
+
+msgid "Paste your tracking codes here (including the script tag)"
+msgstr ""
+
+msgid "Consent"
+msgstr ""
+
+msgid "Cookie consent info"
+msgstr ""
+
+msgid "The information text on the consent"
+msgstr ""
+
+msgid "\"Open Settings\" button"
+msgstr ""
+
+msgid "Edit label for the \"Open Settings\" button"
+msgstr ""
+
+msgid "\"Ok, I Understand\" button"
+msgstr ""
+
+msgid "Edit label for the \"Ok, I Understand\" button"
+msgstr ""
+
+msgid "Cookie declaration prefix"
+msgstr ""
+
+msgid "This text will be displayed at the top of the cookie declaration table"
+msgstr ""
+
+msgid "Cookie declaration suffix"
+msgstr ""
+
+msgid "This text will be displayed at the bottom of the cookie declaration table"
+msgstr ""
+
+msgid "\"Cookie Declaration\" Button"
+msgstr ""
+
+msgid "Edit label for the \"Cookie Declaration\" button"
+msgstr ""
+
+msgid "\"Disable All\" Button"
+msgstr ""
+
+msgid "Edit label for the \"Disable All\" button"
+msgstr ""
+
+msgid "\"Save & Close\" Button"
+msgstr ""
+
+msgid "Edit label for the \"Save & Close\" button"
+msgstr ""
+
+msgid "Restore Default"
+msgstr ""
+
+msgid "Click on save changes to confirm"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Buttons background color"
+msgstr ""
+
+msgid "Buttons text color"
+msgstr ""
+
+msgid "Padding top (px)"
+msgstr ""
+
+msgid "Padding bottom (px)"
+msgstr ""
+
+msgid "Base font size (px)"
+msgstr ""
+
+msgid "Delay consent"
+msgstr ""
+
+msgid "No, consent appears immediately"
+msgstr ""
+
+msgid "By a certain amount of px user has scrolled down"
+msgstr ""
+
+msgid "By a certain amount of vh user has scrolled down"
+msgstr ""
+
+msgid "By a certain amount of time (s)"
+msgstr ""
+
+msgid "Value in pixels"
+msgstr ""
+
+msgid "Value in vh"
+msgstr ""
+
+msgid "Value in seconds"
+msgstr ""
+
+msgid "\"Cookie Declaration\" button background color"
+msgstr ""
+
+msgid "\"Cookie Declaration\" button text color"
+msgstr ""
+
+msgid "\"Disable All\" button background color"
+msgstr ""
+
+msgid "\"Disable All\" button text color"
+msgstr ""
+
+msgid "\"Save & Close\" button background color"
+msgstr ""
+
+msgid "\"Save & Close\" button text color"
+msgstr ""
+
+msgid "We use cookies to give you the best and most relevant experience. Storing data in cookies also gives us ability to track users movements and to gather demographic information. Using our site means you agree with this and understand that we can share information about your use of this site with our social media and advertising providers."
+msgstr ""
+
+msgid "You can manage your cookie preferences in the settings area or you can completely disable cookies in your browser, so no data will be collected."
+msgstr ""

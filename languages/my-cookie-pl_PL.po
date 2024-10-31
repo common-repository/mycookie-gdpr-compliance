@@ -1,0 +1,191 @@
+msgid "Our website uses cookies to ensure you get the best experience."
+msgstr "Nasza strona używa ciasteczek, aby zapewnić jak najlepsze działanie."
+
+msgid "Open settings"
+msgstr "Ustawienia"
+
+msgid "Ok, I Understand"
+msgstr "W porządku"
+
+msgid "Cookie Declaration"
+msgstr "Deklaracja cookies"
+
+msgid "Disable All"
+msgstr "Wyłącz wszystko"
+
+msgid "Save & Close"
+msgstr "Zapisz i wyjdź"
+
+msgid "Used to distinguish users and sessions for web statistics purposes."
+msgstr "Używane w celu gromadzenia statystyk i analizy ruchu na stronie."
+
+msgid "Helps in determining efficiency of our advertising policy."
+msgstr "Pozwala nam na efektywne prowadzenie kampanii reklamowych."
+
+msgid "Stores various information regarding user's preferences."
+msgstr "Gromadzi informacje na temat preferencji użytkownika."
+
+msgid "Please change your cookies preferences to see this video."
+msgstr "Musisz zmienić preferencje YouTube, aby móc zobaczyć ten film."
+
+msgid "Cookies settings"
+msgstr "Ustawienia ciasteczek"
+
+msgid "Content settings"
+msgstr "Ustawienia treści"
+
+msgid "Design settings"
+msgstr "Ustawienia wyglądu"
+
+msgid "Preset Items"
+msgstr "Usługi domyślne"
+
+msgid "Cookies List"
+msgstr "Lista ciasteczek"
+
+msgid "Item Description"
+msgstr "Opis usługi"
+
+msgid "Tracking Code(s)"
+msgstr "Kody śledzące"
+
+msgid "Service"
+msgstr "Usługa"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Cookies this service creates and uses"
+msgstr "Ciasteczka, z których korzysta usługa"
+
+msgid "Service description (what it does)"
+msgstr "Opis działania usługi"
+
+msgid "Paste your tracking codes here (including the script tag)"
+msgstr "Wklej tutaj kody śledzące (razem z tagiem script)"
+
+msgid "Consent"
+msgstr "Komunikat cookies"
+
+msgid "Cookie consent info"
+msgstr "Informacja na komunikacie"
+
+msgid "The information text on the consent"
+msgstr "Tekst informujący o tym, że strona korzysta z ciasteczek"
+
+msgid "\"Open Settings\" button"
+msgstr "Przycisk \"Ustawienia\""
+
+msgid "Edit label for the \"Open Settings\" button"
+msgstr "Edytuj tekst dla przycisku \"Ustawienia\""
+
+msgid "\"Ok, I Understand\" button"
+msgstr "Przycisk \"W porządku\""
+
+msgid "Edit label for the \"Ok, I Understand\" button"
+msgstr "Edytuj tekst dla przycisku \"W porządku\""
+
+msgid "Cookie declaration prefix"
+msgstr "Tekst poprzedzający deklarację cookies"
+
+msgid "This text will be displayed at the top of the cookie declaration table"
+msgstr "Tekst ten zostanie wyświetlony powyżej tabeli z deklaracją cookies"
+
+msgid "Cookie declaration suffix"
+msgstr "Tekst następujący deklarację cookies"
+
+msgid "This text will be displayed at the bottom of the cookie declaration table"
+msgstr "Tekst ten zostanie wyświetlony poniżej tabeli z deklaracją cookies"
+
+msgid "\"Cookie Declaration\" Button"
+msgstr "Przycisk \"Deklaracja cookies\""
+
+msgid "Edit label for the \"Cookie Declaration\" button"
+msgstr "Edytuj tekst dla przycisku \"Deklaracja cookies\""
+
+msgid "\"Disable All\" Button"
+msgstr "Przycisk \"Wyłącz wszystko\""
+
+msgid "Edit label for the \"Disable All\" button"
+msgstr "Edytuj tekst dla przycisku \"Wyłącz wszystko\""
+
+msgid "\"Save & Close\" Button"
+msgstr "Przycisk \"Zapisz i zamknij\""
+
+msgid "Edit label for the \"Save & Close\" button"
+msgstr "Edytuj tekst dla przycisku \"Zapisz i zamknij\""
+
+msgid "Restore Default"
+msgstr "Przywróć domyślne"
+
+msgid "Click on save changes to confirm"
+msgstr "Kliknij na zapisz zmiany, aby potwierdzić"
+
+msgid "Background color"
+msgstr "Kolor tła"
+
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+msgid "Buttons background color"
+msgstr "Kolor tła przycisków"
+
+msgid "Buttons text color"
+msgstr "Kolor tekstu przycisków"
+
+msgid "Padding top (px)"
+msgstr "Odstęp od góry w px"
+
+msgid "Padding bottom (px)"
+msgstr "Odstęp od dołu w px"
+
+msgid "Base font size (px)"
+msgstr "Bazowa wielkość tekstu w px"
+
+msgid "Delay consent"
+msgstr "Opóźnij pojawienie się komunikatu"
+
+msgid "No, consent appears immediately"
+msgstr "Nie, komunikat pojawia się od razu"
+
+msgid "By a certain amount of px user has scrolled down"
+msgstr "O ilość px do przescrollowania"
+
+msgid "By a certain amount of vh user has scrolled down"
+msgstr "O procent zawartości strony do przescrollowania"
+
+msgid "By a certain amount of time (s)"
+msgstr "O czas w sekundach"
+
+msgid "Value in pixels"
+msgstr "Podaj wartość w pikselach"
+
+msgid "Value in vh"
+msgstr "Podaj wartość w procentach"
+
+msgid "Value in seconds"
+msgstr "Podaj wartość w sekundach"
+
+msgid "\"Cookie Declaration\" button background color"
+msgstr "Kolor tła przycisku \"Deklaracja cookies\""
+
+msgid "\"Cookie Declaration\" button text color"
+msgstr "Kolor tekstu przycisku \"Deklaracja cookies\""
+
+msgid "\"Disable All\" button background color"
+msgstr "Kolor tła przycisku \"Wyłącz wszystko\""
+
+msgid "\"Disable All\" button text color"
+msgstr "Kolor tekstu przycisku \"Wyłącz wszystko\""
+
+msgid "\"Save & Close\" button background color"
+msgstr "Kolor tła przycisku \"Zapisz i zamknij\""
+
+msgid "\"Save & Close\" button text color"
+msgstr "Kolor tekstu przycisku \"Zapisz i zamknij\""
+
+msgid "We use cookies to give you the best and most relevant experience. Storing data in cookies also gives us ability to track users movements and to gather demographic information. Using our site means you agree with this and understand that we can share information about your use of this site with our social media and advertising providers."
+msgstr "Za pomocą narzędzi do gromadzenia statystyk i analizy ruchu na stronie, zbieramy informacje o odwiedzających użytkownikach, aby móc później przeanalizować ich zachowanie na naszej stronie internetowej. Są to dla nas bardzo wartościowe informacje, gdyż na ich podstawie możemy indywidualnie dopasować stronę do potrzeb każdego użytkownika. "
+
+msgid "You can manage your cookie preferences in the settings area or you can completely disable cookies in your browser, so no data will be collected."
+msgstr "Możesz zarządzać swoimi preferencjami cookies klikając tutaj, bądź całkowicie wyłączyć cookies w przeglądarce, dzięki czemu nie będą zbierane żadne informacje"
